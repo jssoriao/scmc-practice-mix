@@ -142,7 +142,7 @@ export default function App() {
     <div className="min-h-dvh bg-slate-950 text-slate-100">
       <div className="mx-auto max-w-2xl px-3 pb-24 pt-4">
         <header className="mb-4 flex items-center justify-between gap-2">
-          <h1 className="text-lg font-semibold tracking-tight">Shepherd&apos;s Care</h1>
+          <h1 className="text-lg font-semibold tracking-tight">SCMC Practice Mix</h1>
           <div className="flex gap-2">
             {stems.length > 0 && (
               <button

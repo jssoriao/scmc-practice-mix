@@ -17,8 +17,8 @@ export default defineConfig(({ mode }) => {
         registerType: 'autoUpdate',
         includeAssets: ['favicon.svg'],
         manifest: {
-          name: "Shepherd's Care",
-          short_name: "Shepherd's Care",
+          name: 'SCMC Practice Mix',
+          short_name: 'SCMC Worship',
           description: 'Play stems together with mute and solo.',
           theme_color: '#020617',
           background_color: '#020617',

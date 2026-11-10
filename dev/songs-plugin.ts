@@ -87,7 +87,7 @@ function sendFile(req: IncomingMessage, res: ServerResponse, file: string) {
 export function songsPlugin(rootDir: string, mount = '/songs'): Plugin {
   const root = path.resolve(rootDir)
   return {
-    name: 'shepherds-care-songs',
+    name: 'scmc-practice-mix-songs',
     apply: 'serve',
     configureServer(server) {
       server.middlewares.use(mount, (req, res, next) => {

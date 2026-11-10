@@ -1,4 +1,4 @@
-# Shepherd's Care
+# SCMC Practice Mix
 
 Play a song's stems together with mute / solo / volume. Installable PWA (iOS + Android + desktop).
 
